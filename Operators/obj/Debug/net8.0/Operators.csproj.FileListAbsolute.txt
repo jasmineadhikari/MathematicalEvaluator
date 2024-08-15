@@ -12,3 +12,4 @@
 /Users/jasmineadhikari/RiderProjects/Operators/Operators/obj/Debug/net8.0/Operators.pdb
 /Users/jasmineadhikari/RiderProjects/Operators/Operators/obj/Debug/net8.0/Operators.genruntimeconfig.cache
 /Users/jasmineadhikari/RiderProjects/Operators/Operators/obj/Debug/net8.0/ref/Operators.dll
+/Users/jasmineadhikari/RiderProjects/Operators/Operators/obj/Debug/net8.0/Operators.sourcelink.json
